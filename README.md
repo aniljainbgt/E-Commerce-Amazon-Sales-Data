@@ -43,4 +43,4 @@ This dataset contains Amazon sales data for almost 90 days from 31-March-2022 to
 - Formulas (COUNTIFS, UNIQUE)
 
 ## Dashboard Sample
-<img src="Images/Dashboard.png">
+<img src="Images/Amazon Sales Dashboard.png">
