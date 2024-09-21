@@ -6,7 +6,7 @@
 A publically available dataset on [Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data). It contains Amazon sales data for almost 90 days from 31-March-2022 to 29-Jun-2022 in more than 1,20,000 rows. 
 
 ### Acknowledgements
-The data for this project can be found at [data.world](https://data.world/anilsharma87) , thanks to ANil.
+The data for this project can be also be found at [data.world](https://data.world/anilsharma87/sales) , thanks to [ANil](https://data.world/anilsharma87), the author/researcher of this dataset
 
 ### Columns (Attributes): ###
 
@@ -72,6 +72,7 @@ The data for this project can be found at [data.world](https://data.world/anilsh
 - Data Visualization - Charts and Graphs
   - Column Chart
   - Stacked Column Chart
+  - Pie Chart
   - Doughnut Chart
   - Slice for filtering
 - Formulas (COUNTBLANK, UNIQUE, TEXT)
