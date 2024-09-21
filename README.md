@@ -4,7 +4,10 @@
 
 
 
-A publically available dataset from Kaggle. It contains Amazon sales data for almost 90 days from 31-March-2022 to 29-Jun-2022 in more than 1,20,000 rows. This data is available under the CC0: Public Domain license.
+A publically available dataset from Kaggle. It contains Amazon sales data for almost 90 days from 31-March-2022 to 29-Jun-2022 in more than 1,20,000 rows. 
+
+### Acknowledgements
+The data for this project can be found at [data.world](https://data.world/anilsharma87) , thanks to ANil.
 
 ### Attributes: ###
 
