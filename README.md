@@ -27,3 +27,20 @@ This dataset contains Amazon sales data for almost 90 days from 31-March-2022 to
 - ***Ship Country:*** Destination Country of the shipment
 -***Promotion IDS:*** Promotion code of the sale
 -***B2B:*** Business to business sale
+
+### Skills Used in Excel
+- Formating
+- Conditional Formating
+- Data Cleaning
+- Sorting and Filtering
+- Power Query - Splitting Columns, Removing unwanted space, Replacing missing values with appropriate values
+- Pivot Tables 
+- Data Visualization - Charts and Graphs
+  -Column Chart
+  -Stacked Column Chart
+  -Doughnut Chart
+  -Slice for filtering
+- Formulas (COUNTIFS, UNIQUE)
+
+## Dashboard Sample
+<img src="Images/Dashboard.png">
