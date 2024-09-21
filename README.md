@@ -44,6 +44,17 @@ The data for this project can be found at [data.world](https://data.world/anilsh
 8. Revenue by fulfillment (Amazon and Merchant)?
 9. Revenue by Customer Type (B2B true=Business/false=Customer)
 
+### Data Cleaning
+
+![image](https://github.com/user-attachments/assets/9b8c852e-a1f8-405d-8a78-ad8e7f52d8bd)
+
+### Analysis
+
+![image](https://github.com/user-attachments/assets/6d7a23c4-ca4a-465f-ad87-cd6938c480ee)
+
+### Visualization
+
+![image](https://github.com/user-attachments/assets/2698c672-16f4-48e1-bffd-b07a1e77e6ca)
 
 ### Skills Used in Excel
 - Formating
