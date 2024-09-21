@@ -1,10 +1,9 @@
-# E Commerce Amazon Sales Data Analysis
+# E-Commerce Amazon Sales Data Analysis
 
-### ABOUT THIS DATASET
+### About this dataset
 
 
-
-A publically available dataset from Kaggle. It contains Amazon sales data for almost 90 days from 31-March-2022 to 29-Jun-2022 in more than 1,20,000 rows. 
+A publically available dataset on [Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data). It contains Amazon sales data for almost 90 days from 31-March-2022 to 29-Jun-2022 in more than 1,20,000 rows. 
 
 ### Acknowledgements
 The data for this project can be found at [data.world](https://data.world/anilsharma87) , thanks to ANil.
