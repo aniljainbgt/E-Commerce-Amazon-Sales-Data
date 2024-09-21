@@ -32,6 +32,19 @@ The data for this project can be found at [data.world](https://data.world/anilsh
 -***Promotion IDS:*** Promotion code of the sale
 -***B2B:*** Business to business sale
 
+### Questions to be answered
+
+1. What is Month wise Total Reveneu?
+2. Which are the Best selling states?
+3. Which are the top 5 categories by Revenue?
+4. Which are the top 5 categories by Revenue for each month?
+5. Which are the most sold styles?
+6. Numbers of orders of different status?
+7. Ratio of orders fulfilled by Amazon and Merchant?
+8. Revenue by fulfillment (Amazon and Merchant)?
+9. Revenue by Customer Type (B2B true=Business/false=Customer)
+
+
 ### Skills Used in Excel
 - Formating
 - Text to Columns
