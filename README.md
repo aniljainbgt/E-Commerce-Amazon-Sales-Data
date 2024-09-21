@@ -2,7 +2,9 @@
 
 ### ABOUT THIS DATASET
 
-This dataset contains Amazon sales data for almost 90 days from 31-March-2022 to 29-Jun-2022 in more than 1,20,000 rows. 
+
+
+A publicly available dataset from Kaggle. It contains Amazon sales data for almost 90 days from 31-March-2022 to 29-Jun-2022 in more than 1,20,000 rows. This data is available under the CC0: Public Domain license.
 
 ### Attributes: ###
 
@@ -36,10 +38,10 @@ This dataset contains Amazon sales data for almost 90 days from 31-March-2022 to
 - Power Query - Splitting Columns, Removing unwanted space, Replacing missing values with appropriate values
 - Pivot Tables 
 - Data Visualization - Charts and Graphs
-  -Column Chart
-  -Stacked Column Chart
-  -Doughnut Chart
-  -Slice for filtering
+  - Column Chart
+  - Stacked Column Chart
+  - Doughnut Chart
+  - Slice for filtering
 - Formulas (COUNTIFS, UNIQUE)
 
 ## Dashboard Sample
