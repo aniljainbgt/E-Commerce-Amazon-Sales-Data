@@ -9,7 +9,7 @@ A publically available dataset from Kaggle. It contains Amazon sales data for al
 ### Acknowledgements
 The data for this project can be found at [data.world](https://data.world/anilsharma87) , thanks to ANil.
 
-### Attributes: ###
+### Columns (Attributes): ###
 
 - ***Order ID:*** Order Identification Number
 - ***Date:*** Date of the sale
@@ -35,17 +35,23 @@ The data for this project can be found at [data.world](https://data.world/anilsh
 
 ### Skills Used in Excel
 - Formating
+- Text to Columns
 - Conditional Formating
 - Data Cleaning
 - Sorting and Filtering
-- Power Query - Splitting Columns, Removing unwanted space, Replacing missing values with appropriate values
+- Power Query
+  - Splitting Columns
+  - Removing unwanted space (Trim)
+  - Changing Data Type
+  - Replacing missing values with appropriate values
+  - Transformation -> Change Case to Proper, UPPER
 - Pivot Tables 
 - Data Visualization - Charts and Graphs
   - Column Chart
   - Stacked Column Chart
   - Doughnut Chart
   - Slice for filtering
-- Formulas (COUNTIFS, UNIQUE)
+- Formulas (COUNTBLANK, UNIQUE, TEXT)
 
 ## Dashboard Sample
 <img src="Images/Amazon Sales Dashboard.png">
