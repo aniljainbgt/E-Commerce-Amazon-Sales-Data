@@ -79,3 +79,7 @@ The data for this project can be also be found at [data.world](https://data.worl
 
 ## Dashboard Sample
 <img src="Images/Amazon Sales Dashboard.png">
+
+### Connect with Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/anil-jain-bgt/)
