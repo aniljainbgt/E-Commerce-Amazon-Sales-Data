@@ -57,9 +57,9 @@ The data for this project can be also be found at [data.world](https://data.worl
 ![image](https://github.com/user-attachments/assets/2698c672-16f4-48e1-bffd-b07a1e77e6ca)
 
 ### Skills Used in Excel
-- Formating
+- Formatting
 - Text to Columns
-- Conditional Formating
+- Conditional Formatting
 - Data Cleaning
 - Sorting and Filtering
 - Power Query
